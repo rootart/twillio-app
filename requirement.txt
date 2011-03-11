@@ -1,0 +1,7 @@
+-e svn+http://code.djangoproject.com/svn/django/trunk/#egg=django
+south
+django-haystack
+simplejson
+django-pagination
+django-extensions
+django-piston
