@@ -1,0 +1,8 @@
+.DS_Store
+*.pyc
+settings_local.py
+db.sqlite
+pip-log.txt
+celerybeat-schedule.db
+tracker.html
+cache/*
