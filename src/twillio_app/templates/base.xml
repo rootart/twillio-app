@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
     <Say>HI</Say>
+    <Gather method="POST" numDigits="1" action="/">
+            <Play>http://files.voicestudio.com.au/demo.mp3</Play>
+            <Say>Please enter your 5 digit zipcode to hear the weather.</Say>
+    </Gather>
 </Response>
